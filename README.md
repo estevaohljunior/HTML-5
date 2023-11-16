@@ -1,4 +1,4 @@
-# HTML-5-Basico
+# HTML 5 Básico
 Neste módulo estudei conceitos básicos como: tags, estrutura básica, tíulos e paragrafos, comentários, formatação, links, imagens, quebra de linha, listas e tabelas. Por fim foi atribuído um desafio para fazer um exemplo de currículo com somente HTML.
 <p>
 </p>
